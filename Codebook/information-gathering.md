@@ -10,7 +10,7 @@
 
 ### Exclusion Criteria
 
-* When there’s an autonomous generation, even if it might be used as inspiration for the user → Geração Autónoma
+* When there’s an autonomous generation, even if it might be used as inspiration for the user → [⚙️ Autonomous Generation](autonomous-generation.md "mention")
 
 ### Close but No
 
