@@ -28,6 +28,6 @@
 
 ### Examples
 
-"\[V]amos deixar bem claro assim, não é ser um amigo, mas ser aquele assistente, ser o Alfred, sabe? Só que com a diferença que o Alfred é meio pai do Bachman. Então assim, tirando esse aspecto paternalista do personagem, não sei o que, mas ser alguém que está ali pronto para escutar e resolver algumas situações específicas, aí são coisas que seria massa, porque seria justamente aquilo que eu falei, eu acho que ele seria um grande incentivador da criatividade."
+"\[V]amos deixar bem claro assim, não é ser um amigo, mas ser aquele assistente, ser o Alfred, sabe? Só que com a diferença que o Alfred é meio pai do Batman. Então assim, tirando esse aspecto paternalista do personagem, não sei o que, mas ser alguém que está ali pronto para escutar e resolver algumas situações específicas, aí são coisas que seria massa, porque seria justamente aquilo que eu falei, eu acho que ele seria um grande incentivador da criatividade."
 
 "e que podia ser uma ferramenta utilizada em simultâneo por vários dos intervenientes nessa produção"
