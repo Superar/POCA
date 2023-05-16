@@ -14,8 +14,7 @@
 
 ### Close but No
 
-* ~~Non-creative activity related information (e.g. looking for restaurants nearby) → ☑️ **Organization and Productivity**~~
-* ~~Creative activity related but concerning logistics/other resources/time saving (e.g. looking for concert venues, looking for the most ergonomic pen to write) → ☑️ **Organization and Productivity**~~
+❌
 
 ### Examples:
 
