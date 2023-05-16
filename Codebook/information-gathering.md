@@ -1,6 +1,6 @@
 # 🧺 Information Gathering
 
-### Gathering information, both creatively and not, both broadly (without knowing exactly what is being searched for) and more focused (when you know exactly what you are looking for), such as inspiration and references/repertoire, is important to be organic and seamless, without wasting too much time, and also intelligent, being aware of the context and the person.
+## Gathering information, both creatively and not, both broadly (without knowing exactly what is being searched for) and more focused (when you know exactly what you are looking for), such as inspiration and references/repertoire, is important to be organic and seamless, without wasting too much time, and also intelligent, being aware of the context and the person.
 
 ### Inclusion Criteria
 
