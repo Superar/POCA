@@ -16,7 +16,7 @@
 
 ### Close but No
 
-* When there is a unique expected output/solution → [Artifact Manipulation](artifact-manipulation.md "mention")
+* When there is a unique expected output/solution → [🔧 Artifact Manipulation](artifact-manipulation.md "mention") 
 
 ### Examples
 
