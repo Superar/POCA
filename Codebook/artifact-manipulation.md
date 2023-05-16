@@ -12,11 +12,11 @@
 ### Exclusion Criteria:
 
 * When there is unpredictable result → Geração Autónoma
-* When there are several solutions to what the person is asking → Geração Autónoma
+* When there are several solutions to what the person is asking → [⚙️ Autonomous Generation](autonomous-generation.md "mention")
 
 ### Close but No:
 
-* When there is an expected creative behavior from the software → Geração Autónoma
+* When there is an expected creative behavior from the software → [⚙️ Autonomous Generation](autonomous-generation.md "mention")
 
 ### Examples:
 
