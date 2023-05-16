@@ -1,8 +1,8 @@
 # ☑ Organization and Productivity
 
-### Time, people, and activity management, as well as alerts for important tasks and help in document creation for necessary activities, even if not directly related to creativity, to allow the person to have more time and energy to dedicate to their creative tasks.
+## Time, people, and activity management, as well as alerts for important tasks and help in document creation for necessary activities, even if not directly related to creativity, to allow the person to have more time and energy to dedicate to their creative tasks.
 
-#### Inclusion Criteria:
+### Inclusion Criteria:
 
 * Logistics related
 * Time management help
@@ -12,15 +12,15 @@
 * Planning
 * Remote work
 
-#### Exclusion Criteria
+### Exclusion Criteria
 
 * Context is important: If the user doesn’t explicitly mention saving time or resources at all
 
-#### Close but No
+### Close but No
 
 ❌
 
-#### Examples:
+### Examples:
 
 "Na organização das minhas ideias e dos meus trabalhos, na organização."
 
