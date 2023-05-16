@@ -16,7 +16,6 @@
 
 ### Close but No
 
-* ~~When suggesting ideas, but no artifacts are generated → Gestão _e Discussão de Ideias_~~
 * When there is a unique expected output/solution → [artifact-manipulation.md](artifact-manipulation.md "mention")
 
 ### Examples
