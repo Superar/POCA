@@ -24,7 +24,7 @@
 
 #### Close but No
 
-* If only improving motivation is mentioned, without explicitly mentioning aspects of interaction → [learning-and-personal-development-support.md](learning-and-personal-development-support.md "mention")
+* If only improving motivation is mentioned, without explicitly mentioning aspects of interaction → [👨‍🏫 Learning and Personal Development Support](learning-and-personal-development-support.md "mention")
 
 #### Examples
 
