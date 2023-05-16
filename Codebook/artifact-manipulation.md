@@ -1,6 +1,6 @@
 # 🔧 Artifact Manipulation
 
-### Tools that allow the user to modify and explore an artifact in a consistent and predictable way are used by artists on a daily basis to create and refine their creative projects, providing an intermediary between the artist and their final work, without necessarily being creative themselves.
+## Tools that allow the user to modify and explore an artifact in a consistent and predictable way are used by artists on a daily basis to create and refine their creative projects, providing an intermediary between the artist and their final work, without necessarily being creative themselves.
 
 ### Inclusion Criteria:
 
