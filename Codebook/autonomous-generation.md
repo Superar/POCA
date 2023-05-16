@@ -1,6 +1,6 @@
 # ⚙ Autonomous Generation
 
-### Autonomous Generation involves machines creating artifacts with or without user input which is desired by artists for experimentation or due to lack of expertise, and to use as-is or to be further developed, manipulated or used as inspiration or challenge for their own personal creativity.
+## Autonomous Generation involves machines creating artifacts with or without user input which is desired by artists for experimentation or due to lack of expertise, and to use as-is or to be further developed, manipulated or used as inspiration or challenge for their own personal creativity.
 
 ### Inclusion Criteria:
 
