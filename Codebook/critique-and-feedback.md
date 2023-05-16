@@ -15,7 +15,7 @@
 
 ### Close but No
 
-* When the user doesn’t mention any specific artifact/object/performance/technique as input to be critiqued → **Apoio ao Ensino e Desenvolvimento Pessoal**
+* When the user doesn’t mention any specific artifact/object/performance/technique as input to be critiqued → [Learning and Personal Development Support](https://github.com/Superar/POCA/blob/main/Codebook/learning-and-personal-development-support.md)
 
 ### Examples:
 
