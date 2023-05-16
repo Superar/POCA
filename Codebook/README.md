@@ -6,12 +6,12 @@ Then, the codebook was used to guide the next step of the Provisional Coding for
 
 # Table of contents
 
-* [💡 Idea Management and Discussion](idea-management-and-discussion.md)
-* [🔧 Artifact Manipulation](artifact-manipulation.md)
-* [🧺 Information Gathering](information-gathering.md)
-* [👨‍🏫 Learning and Personal Development Support](learning-and-personal-development-support.md)
-* [🤖 Human-Machine Interaction](human-machine-interaction.md)
-* [☑ Organization and Productivity](organization-and-productivity.md)
-* [⚙ Autonomous Generation](autonomous-generation.md)
-* [⚫ Non Necessity](non-necessity.md)
-* [✍ Critique and Feedback](critique-and-feedback.md)
+* [💡 **Idea Management and Discussion**](idea-management-and-discussion.md)
+* [🔧 **Artifact Manipulation**](artifact-manipulation.md)
+* [🧺 **Information Gathering**](information-gathering.md)
+* [👨‍🏫 **Learning and Personal Development Support**](learning-and-personal-development-support.md)
+* [🤖 **Human-Machine Interaction**](human-machine-interaction.md)
+* [☑ **Organization and Productivity**](organization-and-productivity.md)
+* [⚙ **Autonomous Generation**](autonomous-generation.md)
+* [⚫ **Non Necessity**](non-necessity.md)
+* [✍ **Critique and Feedback**](critique-and-feedback.md)
