@@ -10,7 +10,7 @@
   * Human likeliness
   * Intrusion
   * Collaboration
-  * Knowledge/_**Expertise**_
+  * Knowledge/Expertise
   * Adaptability/Customization
   * Active _**vs**_ Passive
   * Availability
