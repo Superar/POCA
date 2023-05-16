@@ -16,7 +16,6 @@
 ### Close but No:
 
 * When the machine is **expected** to create a specific/concrete artifact, and not an abstract idea of an artifact to be developed later by the user → Geração Autónoma
-* ~~When talking about feedback → **✍️ Critique and Feedback**~~
 * Time and resources → Organização e Produtividade
 
 ### Examples:
