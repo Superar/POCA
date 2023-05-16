@@ -11,12 +11,12 @@
 
 ### Exclusion Criteria:
 
-* When there is unpredictable result → [⚙️ Autonomous Generation](autonomous-generation.md "mention") 
-* When there are several solutions to what the person is asking → [⚙️ Autonomous Generation](autonomous-generation.md "mention")
+* When there is unpredictable result → [⚙️ **Autonomous Generation**](autonomous-generation.md "mention") 
+* When there are several solutions to what the person is asking → [⚙️ **Autonomous Generation**](autonomous-generation.md "mention")
 
 ### Close but No:
 
-* When there is an expected creative behavior from the software → [⚙️ Autonomous Generation](autonomous-generation.md "mention")
+* When there is an expected creative behavior from the software → [⚙️ **Autonomous Generation**](autonomous-generation.md "mention")
 
 ### Examples:
 
