@@ -2,7 +2,7 @@
 
 ###
 
-### \[A]n important subject to be taken into account during our analysis was not only to pay attention to the necessities of the participants, but also to take a look into the situations and reasons to not use, not want to use or not feel the need to use a creative assistant such as POCA.
+## \[A]n important subject to be taken into account during our analysis was not only to pay attention to the necessities of the participants, but also to take a look into the situations and reasons to not use, not want to use or not feel the need to use a creative assistant such as POCA.
 
 ### Inclusion Criteria:
 
