@@ -1,4 +1,4 @@
-# 🧑🏫 Learning and Personal Development Support
+# 👨‍🏫Learning and Personal Development Support
 
 ### Tools that can help artists, whether they be teachers or students, in research, content creation, exercises, time management, and evaluation in an educational context.
 
