@@ -15,8 +15,8 @@
 
 ### Close but No:
 
-* When the machine is **expected** to create a specific/concrete artifact, and not an abstract idea of an artifact to be developed later by the user → [⚙️ Autonomous Generation](autonomous-generation.md "mention")
-* Time and resources → [☑️ Organization and Productivity](organization-and-productivity.md "mention")
+* When the machine is **expected** to create a specific/concrete artifact, and not an abstract idea of an artifact to be developed later by the user → [⚙️ **Autonomous Generation**](autonomous-generation.md "mention")
+* Time and resources → [☑️ **Organization and Productivity**](organization-and-productivity.md "mention")
 
 ### Examples:
 
